@@ -1,0 +1,33 @@
+E:\Formatação\Facul\C#\Faculdade\JogoFigurasGeometricas\JogoFigurasGeometricas\bin\Debug\JogoFigurasGeometricas.exe.config
+E:\Formatação\Facul\C#\Faculdade\JogoFigurasGeometricas\JogoFigurasGeometricas\bin\Debug\JogoFigurasGeometricas.exe
+E:\Formatação\Facul\C#\Faculdade\JogoFigurasGeometricas\JogoFigurasGeometricas\bin\Debug\JogoFigurasGeometricas.pdb
+E:\Formatação\Facul\C#\Faculdade\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.csproj.AssemblyReference.cache
+E:\Formatação\Facul\C#\Faculdade\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.Form1.resources
+E:\Formatação\Facul\C#\Faculdade\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.Properties.Resources.resources
+E:\Formatação\Facul\C#\Faculdade\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.csproj.GenerateResource.cache
+E:\Formatação\Facul\C#\Faculdade\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.csproj.CoreCompileInputs.cache
+E:\Formatação\Facul\C#\Faculdade\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.exe
+E:\Formatação\Facul\C#\Faculdade\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.pdb
+E:\Formatação\Facul\C#\Faculdade\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.exe.config
+D:\facul\PROGRAMAÇÃO VISUAL-GAMES C#\JogoFigurasGeometricas\JogoFigurasGeometricas\bin\Debug\JogoFigurasGeometricas.exe.config
+D:\facul\PROGRAMAÇÃO VISUAL-GAMES C#\JogoFigurasGeometricas\JogoFigurasGeometricas\bin\Debug\JogoFigurasGeometricas.exe
+D:\facul\PROGRAMAÇÃO VISUAL-GAMES C#\JogoFigurasGeometricas\JogoFigurasGeometricas\bin\Debug\JogoFigurasGeometricas.pdb
+D:\facul\PROGRAMAÇÃO VISUAL-GAMES C#\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.csproj.AssemblyReference.cache
+D:\facul\PROGRAMAÇÃO VISUAL-GAMES C#\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.exe.config
+D:\facul\PROGRAMAÇÃO VISUAL-GAMES C#\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.Form1.resources
+D:\facul\PROGRAMAÇÃO VISUAL-GAMES C#\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.Properties.Resources.resources
+D:\facul\PROGRAMAÇÃO VISUAL-GAMES C#\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.csproj.GenerateResource.cache
+D:\facul\PROGRAMAÇÃO VISUAL-GAMES C#\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.csproj.CoreCompileInputs.cache
+D:\facul\PROGRAMAÇÃO VISUAL-GAMES C#\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.exe
+D:\facul\PROGRAMAÇÃO VISUAL-GAMES C#\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.pdb
+C:\Users\anton\OneDrive\Desktop\JogoFigurasGeometricas\JogoFigurasGeometricas\bin\Debug\JogoFigurasGeometricas.exe.config
+C:\Users\anton\OneDrive\Desktop\JogoFigurasGeometricas\JogoFigurasGeometricas\bin\Debug\JogoFigurasGeometricas.exe
+C:\Users\anton\OneDrive\Desktop\JogoFigurasGeometricas\JogoFigurasGeometricas\bin\Debug\JogoFigurasGeometricas.pdb
+C:\Users\anton\OneDrive\Desktop\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Desktop\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.exe.config
+C:\Users\anton\OneDrive\Desktop\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.Form1.resources
+C:\Users\anton\OneDrive\Desktop\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.Properties.Resources.resources
+C:\Users\anton\OneDrive\Desktop\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.csproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Desktop\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Desktop\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.exe
+C:\Users\anton\OneDrive\Desktop\JogoFigurasGeometricas\JogoFigurasGeometricas\obj\Debug\JogoFigurasGeometricas.pdb
